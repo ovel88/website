@@ -1,0 +1,101 @@
+tiles:
+-
+  name: "google"
+  url: "https://player.vimeo.com/video/151297208?loop=false&amp;byline=false&amp;portrait=false&amp;title=false&amp;speed=true&amp;transparent=0&amp;gesture=media"
+  img: "logos/google.svg"
+  tags: ["favorite", "search"]
+-
+  name: "bing"
+  url: "https://player.vimeo.com/video/53669636"
+  img: "logos/bing.svg"
+  txt_color: "#ffffff"
+  bg_color: "#ffb900"
+  tags: ["search"]
+-
+  name: "amazon"
+  url: "https://player.vimeo.com/video/33649806"
+  img: "logos/amazon.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["favorite", "shopping"]
+-
+  name: "reddit"
+  url: "https://www.youtube.com/embed/AXt8F_V1D6A"
+  img: "logos/reddit.svg"
+  bg_color: "#5f99cf"
+  txt_color: "#ffffff"
+-
+  name: "spotify"
+  url: "https://www.youtube.com/embed/q3h-OBlJjoU"
+  img: "logos/spotify.svg"
+  bg_color: "#191414"
+  txt_color: "#1db954"
+  tags: ["favorite", "music"]
+-
+  name: "google music"
+  url: "https://www.youtube.com/embed/6C0p3rodyhQ"
+  img: "logos/google-music.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff5722"
+  tags: ["music"]
+-
+  name: "pandora"
+  url: "https://www.youtube.com/embed/GAkyLo0Hhyk"
+  img: "logos/pandora.svg"
+  bg_color: "#005483"
+  txt_color: "#ffffff"
+  tags: ["music"]
+-
+  name: "soundcloud"
+  url: "https://www.youtube.com/embed/XfCh4Ai_v-0"
+  img: "logos/soundcloud.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff3300"
+  tags: ["music"]
+-
+  name: "wikipedia"
+  url: "https://www.youtube.com/embed/On3aPrepHgw"
+  img: "logos/wikipedia.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+-
+  name: "ebay"
+  url: "https://www.youtube.com/embed/JfIgqzymBN4"
+  img: "logos/ebay.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["shopping"]
+-
+  name: "twitter"
+  url: "https://www.youtube.com/embed/irE9AsKWFb8"
+  img: "logos/twitter.svg"
+  bg_color: "#1da1f2"
+  txt_color: "#f5f8fa"
+-
+  name: "twitch"
+  url: "https://player.vimeo.com/video/704494102"
+  img: "logos/twitch.svg"
+  bg_color: "#f1f1f1"
+  txt_color: "#6441a5"
+  tags: ["video"]
+-
+  name: "youtube"
+  url: "https://player.vimeo.com/video/704494045"
+  img: "logos/youtube.svg"
+  bg_color: "#ffffff"
+  txt_color: "#cd201f"
+  tags: ["video"]
+-
+  name: "netflix"
+  url: "https://player.vimeo.com/video/70517685"
+  img: "logos/netflix.svg"
+  bg_color: "#221f1f"
+  txt_color: "#e50914"
+  tags: ["video"]
+
+-
+  name: "imgur"
+  url: "https://player.vimeo.com/video/43903144"
+  img: "logos/imgur.svg"
+  bg_color: "#ffffff"
+  txt_color: "#85bf25"
