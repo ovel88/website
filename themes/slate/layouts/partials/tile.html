@@ -2,10 +2,8 @@
 
 <a class="tile tile-link" href="{{ .Link.url }}"  data-groups='{{ if .Link.tags }}{{ delimit .Link.tags "," }}{{ end }}'{{ if .Jump }} target="_blank"{{ end }}>
     
-		
 
-		
-		<div class="tile  tile-box plyr__video-embed plyr plyr--full-ui plyr--video plyr--html5 plyr--fullscreen-enabled plyr--pip-supported plyr--captions-enabled plyr__poster-enabled plyr--paused"  height:auto; padding-bottom: auto; id="player">
+		<div class="tile  tile-box plyr__video-embed  plyr--html5 plyr--fullscreen-enabled"  height:auto; padding-bottom: auto; id="player">
     <iframe  
 		src='{{ .Link.url }}'
         allowfullscreen
