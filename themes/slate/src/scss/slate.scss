@@ -64,7 +64,7 @@ body {
 .tile {
     width: $tile-width;
     max-width: $tile-width;
-    padding: 8px;
+    padding: 0px;
     -webkit-flex: 0 0 188px;
 	flex: 0 0 188px;
     transition: top 0.3s, left 0.3s, opacity 0.3s;
