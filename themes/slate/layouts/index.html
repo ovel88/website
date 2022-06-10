@@ -4,7 +4,7 @@
     <link rel="shortcut icon" href="{{ .Site.Params.Favicon }}">{{ end }}
     <link rel="stylesheet" href="css/slate.css">
 	<link rel="stylesheet" href="css/plyr.css" />
-</head>
+	</head>
 
 <body{{ if .Site.Params.BackgroundStyle }} style='background: {{ .Site.Params.BackgroundStyle | safeCSS }};'{{ end }}
 {{- if .Site.Params.BackgroundImages }} data-backgrounds='{{ range .Site.Params.BackgroundImages }}{{ . }},{{ end }}'{{- end }}>
@@ -14,7 +14,7 @@
 <div class="container">{{ partial "tile_slate.html" . }}
 </div>
 
-
+{{ partial "footer.html" . }}
 </body>
 <link href="https://fonts.googleapis.com/css?family=Exo" rel="stylesheet">
 <script src="js/slate.js"></script>
