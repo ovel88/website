@@ -1,6 +1,6 @@
 baseURL = "http://oleh.pro"
 languageCode = "en-us"
-title = "Portfolio Page Oleh Akimenkov"
+title = "Portfolio Oleh Akimenkov"
 theme = "slate"
 
 publishDir = "docs"
