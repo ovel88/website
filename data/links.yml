@@ -27,8 +27,8 @@ tiles:
   tags: ["favorite", "shopping"]
 -
   name: "logo"
-  url: "https://vimeo.com/720385189"
-  img: "https://vimeo.com/720385189"
+  url: "https://player.vimeo.com/video/720385189"
+  img: "https://player.vimeo.com/video/720385189"
   bg_color: "#191414"
   txt_color: "#1db954"
   tags: ["favorite", "shopping"]
