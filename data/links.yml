@@ -14,23 +14,24 @@ tiles:
 -
   name: "amazon"
   url: "https://player.vimeo.com/video/33649806"
-  img: "logos/amazon.svg"
+  img: "https://vimeo.com/720385189"
   bg_color: "#ffffff"
   txt_color: "#ff9900"
   tags: ["favorite", "shopping"]
 -
-  name: "reddit"
-  url: "https://www.youtube.com/embed/AXt8F_V1D6A"
-  img: "logos/reddit.svg"
+  name: "Stabilization+Color"
+  url: "https://player.vimeo.com/video/720385456?h=0258f509f5"
+  img: "https://player.vimeo.com/video/720385456?h=0258f509f5"
   bg_color: "#5f99cf"
   txt_color: "#ffffff"
+   tags: ["Stabilization", "Color"]
 -
-  name: "spotify"
-  url: "https://www.youtube.com/embed/q3h-OBlJjoU"
-  img: "logos/spotify.svg"
+  name: "logo"
+  url: "https://vimeo.com/720385189"
+  img: "https://vimeo.com/720385189"
   bg_color: "#191414"
   txt_color: "#1db954"
-  tags: ["favorite", "music"]
+  tags: ["logo"]
 -
   name: "google music"
   url: "https://www.youtube.com/embed/6C0p3rodyhQ"
