@@ -5,9 +5,9 @@ tiles:
   img: "https://player.vimeo.com/video/722122464"
   tags: ["favorite", "search"]
 -
-  name: "bing"
-  url: "https://player.vimeo.com/video/53669636"
-  img: "logos/bing.svg"
+  name: "color correction"
+  url: "https://player.vimeo.com/video/722243965"
+  img: "https://player.vimeo.com/video/722243965g"
   txt_color: "#ffffff"
   bg_color: "#ffb900"
   tags: ["search"]
