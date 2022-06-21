@@ -7,7 +7,7 @@ tiles:
 -
   name: "color correction"
   url: "https://player.vimeo.com/video/722243965"
-  img: "https://player.vimeo.com/video/722243965g"
+  img: "https://player.vimeo.com/video/722243965"
   txt_color: "#ffffff"
   bg_color: "#ffb900"
   tags: ["search"]
