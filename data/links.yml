@@ -41,9 +41,9 @@ tiles:
   txt_color: "#ff5722"
   tags: ["music"]
 -
-  name: "pandora"
-  url: "https://www.youtube.com/embed/GAkyLo0Hhyk"
-  img: "logos/pandora.svg"
+  name: "motion video"
+  url: "https://player.vimeo.com/video/726463360"
+  img: "https://player.vimeo.com/video/726463360"
   bg_color: "#005483"
   txt_color: "#ffffff"
   tags: ["music"]
