@@ -48,9 +48,9 @@ tiles:
   txt_color: "#ffffff"
   tags: ["music"]
 -
-  name: "soundcloud"
-  url: "https://www.youtube.com/embed/XfCh4Ai_v-0"
-  img: "logos/soundcloud.svg"
+  name: "slideshow"
+  url: "https://player.vimeo.com/video/730295531"
+  img: "https://player.vimeo.com/video/730295531"
   bg_color: "#ffffff"
   txt_color: "#ff3300"
   tags: ["music"]
