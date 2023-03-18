@@ -68,11 +68,12 @@ tiles:
   txt_color: "#000000"
   tags: ["shopping"]
 -
-  name: "twitter"
-  url: "https://www.youtube.com/embed/irE9AsKWFb8"
-  img: "logos/twitter.svg"
+  name: "tracker"
+  url: "https://player.vimeo.com/video/809386965"
+  img: "https://player.vimeo.com/video/809386965"
   bg_color: "#1da1f2"
   txt_color: "#f5f8fa"
+  tags: ["shopping"]
 -
   name: "twitch"
   url: "https://player.vimeo.com/video/704494102"
